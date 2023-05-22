@@ -31,12 +31,53 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 - ![#cf4949](https://placehold.co/15x15/cf4949/cf4949.png) `#cf4949`
 - ![#FAFAFA](https://placehold.co/15x15/FAFAFA/FAFAFA.png) `#FAFAFA`
 - ![#4b5156](https://placehold.co/15x15/4b5156/4b5156.png) `#4b5156`
+
+# Features
+## existing features:
+- Be able to create users using a registraion system without using admin panel.
+- Be able to login into an account and only display your information to protect others
+- Be able to logout of your account with ease and not have to use the admin panel
+- Be able to  create a task when signed into an account
+- Be able to edit a task when signed into an account
+- Be able to delete a task when signed into an account
+- Be able to check off the task to show completed
+- Be able to uncheck the task to mark not completed
+- Display if the task is completed or not completed
+
+# Technologies Used
+- Python - Provides the functionality for the site.
+- HTML5 - Provides the content and structure for the website.
+- CSS3 - Provides the styling for the website.
+- JavaScript - Provides interactive elements of the website
+- Django - A model-view-template framework 
+- Heroku - A cloud platform that the application is deployed to.
+- Lighthouse - Used to test performance of site.
+- HTML Validation - Used to validate HTML code
+- CSS Validation - Used to validate CSS code
+- JSHint Validation - Used to validate JavaScript code
+
+# Testing:
+- Lighthouse score test:
+- ![Screenshot](/media/lighouse.PNG)
+
+- HTML Validator:
+- ![Screenshot](/media/html-valid.PNG)
+
+- CSS Validator:
+- ![Screenshot](/media/css-validator.PNG)
+
+
+
 # Reference:
 
 - https://www.youtube.com/watch?v=llbtoQTt4qw&t=3327s&ab_channel=DennisIvy - Dennis Ivy Todo List Inspiration 
 - https://cssgradient.io/ - Create colour pallete for back ground colours
 - https://www.toptal.com/designers/htmlarrows/symbols/ - This was used for the buttons symbols 
 - https://fonts.google.com/ - google fonts for the fonts used in project
+- https://wireframe.cc/ - for the wireframes
+- https://validator.w3.org/ - html validator
+- https://jigsaw.w3.org/css-validator/ - css validator
+
 
 # Deployment:
 
