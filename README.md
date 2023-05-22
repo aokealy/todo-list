@@ -3,6 +3,10 @@ Welcome to my Project four To Do List that I have created which has all the func
 - here is a link to my heroku fully deployed app https://todolist-django.herokuapp.com/
 - here is a link to my github repository https://github.com/aokealy/todo-list
 ------------
+# User Stories:
+-  Agile approach for the user stories which can be found in the project section of the github repository 
+- https://github.com/users/aokealy/projects/2
+
 # **User Experience (UX):**
 ## Wireframes:
 The wireframes for the site were created in the software [wirefram cc](https://wireframe.cc/). The wireframes have been created for desktop, tablet and mobile devices. The text content wasn't finalized during the wireframe process. 
@@ -14,7 +18,19 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 - https://wireframe.cc/9XduNe - Login Page layout
 - https://wireframe.cc/0Wdu9u - Register Account Page layout
 
+# Design Choices:
+## Typography:
+- Roboto and Pangolin were the google fonts I used for this project.
+- Roboto is an open source, sans-serif font originally developed by Google for Android. Its a modern, crisp typeface that pairs well with Archvio, Lora, Rokkit, Nunito, Raleway and Space Mono.
+- Pangolin was designed for the Google Valentine's Day 2017 Doodle, Pangolin Love. A pangolin is an endangered species native to Asia and Africa. The font is a sans serif handwriting style. It supports many languages that use the Latin and Cyrillic scripts.
 
+- ![Screenshot](/media/roboto-font.PNG)
+- ![Screenshot](/media/pangolin-font.PNG)
+
+## Colour Scheme
+- ![#cf4949](https://placehold.co/15x15/cf4949/cf4949.png) `#cf4949`
+- ![#FAFAFA](https://placehold.co/15x15/FAFAFA/FAFAFA.png) `#FAFAFA`
+- ![#4b5156](https://placehold.co/15x15/4b5156/4b5156.png) `#4b5156`
 # Reference:
 
 - https://www.youtube.com/watch?v=llbtoQTt4qw&t=3327s&ab_channel=DennisIvy - Dennis Ivy Todo List Inspiration 
