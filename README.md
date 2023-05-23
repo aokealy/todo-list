@@ -31,6 +31,9 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 - ![#cf4949](https://placehold.co/15x15/cf4949/cf4949.png) `#cf4949`
 - ![#FAFAFA](https://placehold.co/15x15/FAFAFA/FAFAFA.png) `#FAFAFA`
 - ![#4b5156](https://placehold.co/15x15/4b5156/4b5156.png) `#4b5156`
+- ![#FFCC70](https://placehold.co/15x15/FFCC70/FFCC70.png) `#FFCC70`
+- ![#C850C0](https://placehold.co/15x15/C850C0/C850C0.png) `#C850C0`
+- ![#4158D0](https://placehold.co/15x15/4158D0/4158D0.png) `#4158D0`
 
 # Features
 ## existing features:
@@ -66,7 +69,22 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 - CSS Validator:
 - ![Screenshot](/media/css-validator.PNG)
 
+- Python testing Views.py:
+- ![Screenshot](/media/python-valid-views.PNG)
 
+- Python testing models.py:
+- ![Screenshot](/media/python-valid-models.PNG)
+
+
+## Browser Compatibility
+- The website has had manual and responsive tests conducted on the below browsers with additional Lighthouse testing on Google Chrome and Microsoft Edge and I was presented with no issues.
+- Google Chrome
+- Microsoft Edge
+- Safari
+
+# Bugs
+- One issue was the logout button has a background colour hovering over the logout button but covers the full height of that container which I could not fix.
+- First deployment I was having an issue with the setup process but managed to fix it and keeping everything secured.
 
 # Reference:
 
