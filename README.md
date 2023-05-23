@@ -45,6 +45,11 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 - Be able to uncheck the task to mark not completed
 - Display if the task is completed or not completed
 
+### Potential features:
+- Be able to view the task with the description in a new page
+- add timer to display to set to complete task 
+
+
 # Technologies Used
 - Python - Provides the functionality for the site.
 - HTML5 - Provides the content and structure for the website.
@@ -67,11 +72,13 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 - CSS Validator:
 - ![Screenshot](/media/css-validator.PNG)
 
-- Python testing Views.py:
+- Python testing Views.py: 
 - ![Screenshot](/media/python-valid-views.PNG)
 
 - Python testing models.py:
 - ![Screenshot](/media/python-valid-models.PNG)
+
+- Javascript I did not use during this project so I did not do any testing as I did not need it for this application
 
 
 ## Browser Compatibility
