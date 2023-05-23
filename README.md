@@ -31,9 +31,7 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 - ![#cf4949](https://placehold.co/15x15/cf4949/cf4949.png) `#cf4949`
 - ![#FAFAFA](https://placehold.co/15x15/FAFAFA/FAFAFA.png) `#FAFAFA`
 - ![#4b5156](https://placehold.co/15x15/4b5156/4b5156.png) `#4b5156`
-- ![#FFCC70](https://placehold.co/15x15/FFCC70/FFCC70.png) `#FFCC70`
-- ![#C850C0](https://placehold.co/15x15/C850C0/C850C0.png) `#C850C0`
-- ![#4158D0](https://placehold.co/15x15/4158D0/4158D0.png) `#4158D0`
+
 
 # Features
 ## existing features:
