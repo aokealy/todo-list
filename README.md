@@ -93,6 +93,15 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 - Python testing models.py:
 - ![Screenshot](/media/python-valid-models.PNG)
 
+- I have followed Code Institutes workaround to add the PEP8 validator 'pycodestyle' to the Gitpod Workspace. I have tested the following Python files:
+
+- admin.py - No errors or warnings reported
+- forms.py - No errors or warnings reported
+- models.py - No errors or warnings reported
+- test_forms.py - No errors or warnings reported
+- urls.py - No errors or warnings reported
+- views.py - No errors or warnings reported
+
 - Javascript I did not use during this project so I did not do any testing as I did not need it for this application
 
 
