@@ -11,12 +11,12 @@ Welcome to my Project four To Do List that I have created which has all the func
 ## Wireframes:
 The wireframes for the site were created in the software [wirefram cc](https://wireframe.cc/). The wireframes have been created for desktop, tablet and mobile devices. The text content wasn't finalized during the wireframe process. 
 
-- https://wireframe.cc/Iy5cCB - Home Page wireframe layout
-- https://wireframe.cc/nrSBdL - Create Task Page layout
-- https://wireframe.cc/nrSBdL - Edit Task Page layout
-- https://wireframe.cc/TfPn7I - Delete Task Page layout
-- https://wireframe.cc/9XduNe - Login Page layout
-- https://wireframe.cc/0Wdu9u - Register Account Page layout
+- https://wireframe.cc/Iy5cCB - Home Page wireframe layout was designed to be able to easily access everything on the one page with clear text and user friendly.
+- https://wireframe.cc/nrSBdL - Create Task Page layout was simple but eye catching to be able to create a task and be able to create a new task with ease.
+- https://wireframe.cc/nrSBdL - Edit Task Page layout is simple and can easily change and edit quickly and effienciently. 
+- https://wireframe.cc/TfPn7I - Delete Task Page layout marked with big X symbol to delete a task when finished 
+- https://wireframe.cc/9XduNe - Login Page layout was designed to easily login and simple page layout
+- https://wireframe.cc/0Wdu9u - Register Account Page layout is the same as login to where it is easy to register with ease.
 
 # Design Choices:
 ## Typography:
@@ -83,6 +83,7 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 # Bugs
 - One issue was the logout button has a background colour hovering over the logout button but covers the full height of that container which I could not fix.
 - First deployment I was having an issue with the setup process but managed to fix it and keeping everything secured.
+- I tried automating testing for python but had already used postgres database and deployed so could not use that testing so I used a python validator online to check my main important pages. 
 
 # Reference:
 
