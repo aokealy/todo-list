@@ -98,7 +98,6 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 - admin.py - No errors or warnings reported
 - forms.py - No errors or warnings reported
 - models.py - No errors or warnings reported
-- test_forms.py - No errors or warnings reported
 - urls.py - No errors or warnings reported
 - views.py - No errors or warnings reported
 
