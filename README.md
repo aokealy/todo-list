@@ -28,9 +28,14 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 - ![Screenshot](/media/pangolin-font.PNG)
 
 ## Colour Scheme
+- The colours used in this project were based on my own personal preference 
 - ![#cf4949](https://placehold.co/15x15/cf4949/cf4949.png) `#cf4949`
 - ![#FAFAFA](https://placehold.co/15x15/FAFAFA/FAFAFA.png) `#FAFAFA`
 - ![#4b5156](https://placehold.co/15x15/4b5156/4b5156.png) `#4b5156`
+- ![#ebe767](https://placehold.co/15x15/ebe767/ebe767.png) `#ebe767`
+- ![#c6483a](https://placehold.co/15x15/c6483a/c6483a.png) `#c6483a`
+- ![#8dcd6c](https://placehold.co/15x15/8dcd6c/8dcd6c.png) `#8dcd6c`
+- ![#99ecff](https://placehold.co/15x15/99ecff/99ecff.png) `#99ecff`
 
 
 # Features
