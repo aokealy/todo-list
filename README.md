@@ -36,14 +36,24 @@ The wireframes for the site were created in the software [wirefram cc](https://w
 # Features
 ## existing features:
 - Be able to create users using a registraion system without using admin panel.
+- ![Screenshot](/media/register-page.PNG)
 - Be able to login into an account and only display your information to protect others
+- ![Screenshot](/media/login-page.PNG)
 - Be able to logout of your account with ease and not have to use the admin panel
+- ![Screenshot](/media/logout-button.PNG)
 - Be able to  create a task when signed into an account
+- ![Screenshot](/media/create-page.PNG)
 - Be able to edit a task when signed into an account
+- ![Screenshot](/media/edit-page.PNG)
 - Be able to delete a task when signed into an account
+- ![Screenshot](/media/delete-page.PNG)
 - Be able to check off the task to show completed
+- ![Screenshot](/media/check-task.PNG)
 - Be able to uncheck the task to mark not completed
+- ![Screenshot](/media/uncheck-task.PNG)
 - Display if the task is completed or not completed
+- ![Screenshot](/media/check-uncheck.PNG)
+
 
 ### Potential features:
 - Be able to view the task with the description in a new page
